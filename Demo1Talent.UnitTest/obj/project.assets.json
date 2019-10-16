@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nilesh.avasthi\\.nuget\\packages\\": {},
+    "C:\\Users\\divya.patel\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1TalentDummy\\1Talent\\Demo1Talent.UnitTest\\Demo1Talent.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\divya.patel\\source\\repos\\Demo1talent\\Demo1Talent.UnitTest\\Demo1Talent.UnitTest.csproj",
       "projectName": "Demo1Talent.UnitTest",
-      "projectPath": "D:\\1TalentDummy\\1Talent\\Demo1Talent.UnitTest\\Demo1Talent.UnitTest.csproj",
-      "packagesPath": "C:\\Users\\nilesh.avasthi\\.nuget\\packages\\",
-      "outputPath": "D:\\1TalentDummy\\1Talent\\Demo1Talent.UnitTest\\obj\\",
+      "projectPath": "C:\\Users\\divya.patel\\source\\repos\\Demo1talent\\Demo1Talent.UnitTest\\Demo1Talent.UnitTest.csproj",
+      "packagesPath": "C:\\Users\\divya.patel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\divya.patel\\source\\repos\\Demo1talent\\Demo1Talent.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\nilesh.avasthi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\divya.patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
