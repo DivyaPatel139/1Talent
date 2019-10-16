@@ -1,0 +1,14 @@
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Demo1Talent.DAL.deps.json
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Demo1Talent.DAL.dll
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Demo1Talent.DAL.pdb
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.dll
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.pdb
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.csprojAssemblyReference.cache
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.csproj.CoreCompileInputs.cache
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.AssemblyInfoInputs.cache
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.AssemblyInfo.cs
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.csproj.CopyComplete
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.dll
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.pdb

@@ -14,7 +14,7 @@ namespace Demo1talent.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "value", "value2" };
         }
 
         // GET api/values/5
@@ -34,6 +34,7 @@ namespace Demo1talent.Controllers
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] string value)
         {
+           
         }
 
         // DELETE api/values/5
