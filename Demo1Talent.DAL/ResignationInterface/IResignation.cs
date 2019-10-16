@@ -9,7 +9,7 @@ namespace Demo1Talent.DAL.ResignationInterface
     {
         bool Apply(int EmployeeId);
         bool Revoke(int ResignationId);
-        List<EmployeeResignation> GetDetails();
+        List<EmployeeResignation> GetDetails(int EmployeeId);
         List<> GetCcPerson();
     }
 }

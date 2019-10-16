@@ -552,7 +552,6 @@
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
-        ".nupkg.metadata",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -682,55 +681,23 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\yaseen.agwan\\.nuget\\packages\\": {},
-=======
-<<<<<<< HEAD
-    "C:\\Users\\divya.patel\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\vrunda.patel\\.nuget\\packages\\": {},
->>>>>>> 127b38bdcef4d3db2e0c339c052927a45008b278
->>>>>>> ce5e5677a0f4539fa2a7382fe94263a96a6fd0c1
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "E:\\1talent\\1Talent\\Demo1Talent.DTO\\Demo1Talent.DTO.csproj",
       "projectName": "Demo1Talent.DTO",
       "projectPath": "E:\\1talent\\1Talent\\Demo1Talent.DTO\\Demo1Talent.DTO.csproj",
       "packagesPath": "C:\\Users\\yaseen.agwan\\.nuget\\packages\\",
       "outputPath": "E:\\1talent\\1Talent\\Demo1Talent.DTO\\obj\\",
-=======
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\divya.patel\\source\\repos\\Demo1talent\\Demo1Talent.DTO\\Demo1Talent.DTO.csproj",
-      "projectName": "Demo1Talent.DTO",
-      "projectPath": "C:\\Users\\divya.patel\\source\\repos\\Demo1talent\\Demo1Talent.DTO\\Demo1Talent.DTO.csproj",
-      "packagesPath": "C:\\Users\\divya.patel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\divya.patel\\source\\repos\\Demo1talent\\Demo1Talent.DTO\\obj\\",
-=======
-      "projectUniqueName": "D:\\demo1talent\\1Talent\\Demo1Talent.DTO\\Demo1Talent.DTO.csproj",
-      "projectName": "Demo1Talent.DTO",
-      "projectPath": "D:\\demo1talent\\1Talent\\Demo1Talent.DTO\\Demo1Talent.DTO.csproj",
-      "packagesPath": "C:\\Users\\vrunda.patel\\.nuget\\packages\\",
-      "outputPath": "D:\\demo1talent\\1Talent\\Demo1Talent.DTO\\obj\\",
->>>>>>> 127b38bdcef4d3db2e0c339c052927a45008b278
->>>>>>> ce5e5677a0f4539fa2a7382fe94263a96a6fd0c1
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\yaseen.agwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-<<<<<<< HEAD
-        "C:\\Users\\divya.patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\vrunda.patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 127b38bdcef4d3db2e0c339c052927a45008b278
->>>>>>> ce5e5677a0f4539fa2a7382fe94263a96a6fd0c1
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -774,7 +741,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\demo1talent\\1Talent\\Demo1Talent.DTO\\obj\\Demo1Talent.DTO.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problem reading the cache file E:\\1talent\\1Talent\\Demo1Talent.DTO\\obj\\Demo1Talent.DTO.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
 }

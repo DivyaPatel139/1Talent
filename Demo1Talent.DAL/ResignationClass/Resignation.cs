@@ -27,17 +27,20 @@ namespace Demo1Talent.DAL.ResignationClass
 
         public List<EmployeeResignation> GetDetails()
         {
+           
+        }
+
+        public List<EmployeeResignation> GetDetails(int EmployeeId)
+        {
             var employeeResignationDetails = (from details in _resignationContext.Resignations
+                                              join employee in _resignationContext.Employees
+                                              on details.
+
                                               select new EmployeeResignation
                                               {
                                                   EmployeeId = details.
                                               }).ToList();
             return employeeResignationDetails;
-        }
-
-        public bool Revoke(int ResignationId)
-        {
-            throw new NotImplementedException();
         }
     }
 }

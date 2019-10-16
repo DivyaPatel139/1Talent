@@ -1,8 +1,9 @@
 ﻿using Demo1Talent.DTO.Domain_Model;
-using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Demo1Talent.DTO.Domain_Model;
+using Microsoft.EntityFrameworkCore;
 
 namespace Demo1Talent.DAL.Resignationcontext
 {
