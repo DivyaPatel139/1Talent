@@ -717,23 +717,55 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\yaseen.agwan\\.nuget\\packages\\": {},
+=======
+<<<<<<< HEAD
+    "C:\\Users\\divya.patel\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\vrunda.patel\\.nuget\\packages\\": {},
+>>>>>>> 127b38bdcef4d3db2e0c339c052927a45008b278
+>>>>>>> ce5e5677a0f4539fa2a7382fe94263a96a6fd0c1
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "E:\\1talent\\1Talent\\Demo1Talent.BLL\\Demo1Talent.BLL.csproj",
       "projectName": "Demo1Talent.BLL",
       "projectPath": "E:\\1talent\\1Talent\\Demo1Talent.BLL\\Demo1Talent.BLL.csproj",
       "packagesPath": "C:\\Users\\yaseen.agwan\\.nuget\\packages\\",
       "outputPath": "E:\\1talent\\1Talent\\Demo1Talent.BLL\\obj\\",
+=======
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\divya.patel\\source\\repos\\Demo1talent\\Demo1Talent.BLL\\Demo1Talent.BLL.csproj",
+      "projectName": "Demo1Talent.BLL",
+      "projectPath": "C:\\Users\\divya.patel\\source\\repos\\Demo1talent\\Demo1Talent.BLL\\Demo1Talent.BLL.csproj",
+      "packagesPath": "C:\\Users\\divya.patel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\divya.patel\\source\\repos\\Demo1talent\\Demo1Talent.BLL\\obj\\",
+=======
+      "projectUniqueName": "D:\\demo1talent\\1Talent\\Demo1Talent.BLL\\Demo1Talent.BLL.csproj",
+      "projectName": "Demo1Talent.BLL",
+      "projectPath": "D:\\demo1talent\\1Talent\\Demo1Talent.BLL\\Demo1Talent.BLL.csproj",
+      "packagesPath": "C:\\Users\\vrunda.patel\\.nuget\\packages\\",
+      "outputPath": "D:\\demo1talent\\1Talent\\Demo1Talent.BLL\\obj\\",
+>>>>>>> 127b38bdcef4d3db2e0c339c052927a45008b278
+>>>>>>> ce5e5677a0f4539fa2a7382fe94263a96a6fd0c1
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\yaseen.agwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+<<<<<<< HEAD
+        "C:\\Users\\divya.patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\vrunda.patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 127b38bdcef4d3db2e0c339c052927a45008b278
+>>>>>>> ce5e5677a0f4539fa2a7382fe94263a96a6fd0c1
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -746,11 +778,27 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
+<<<<<<< HEAD
             "E:\\1talent\\1Talent\\Demo1Talent.DAL\\Demo1Talent.DAL.csproj": {
               "projectPath": "E:\\1talent\\1Talent\\Demo1Talent.DAL\\Demo1Talent.DAL.csproj"
             },
             "E:\\1talent\\1Talent\\Demo1Talent.DTO\\Demo1Talent.DTO.csproj": {
               "projectPath": "E:\\1talent\\1Talent\\Demo1Talent.DTO\\Demo1Talent.DTO.csproj"
+=======
+<<<<<<< HEAD
+            "C:\\Users\\divya.patel\\source\\repos\\Demo1talent\\Demo1Talent.DAL\\Demo1Talent.DAL.csproj": {
+              "projectPath": "C:\\Users\\divya.patel\\source\\repos\\Demo1talent\\Demo1Talent.DAL\\Demo1Talent.DAL.csproj"
+            },
+            "C:\\Users\\divya.patel\\source\\repos\\Demo1talent\\Demo1Talent.DTO\\Demo1Talent.DTO.csproj": {
+              "projectPath": "C:\\Users\\divya.patel\\source\\repos\\Demo1talent\\Demo1Talent.DTO\\Demo1Talent.DTO.csproj"
+=======
+            "D:\\demo1talent\\1Talent\\Demo1Talent.DAL\\Demo1Talent.DAL.csproj": {
+              "projectPath": "D:\\demo1talent\\1Talent\\Demo1Talent.DAL\\Demo1Talent.DAL.csproj"
+            },
+            "D:\\demo1talent\\1Talent\\Demo1Talent.DTO\\Demo1Talent.DTO.csproj": {
+              "projectPath": "D:\\demo1talent\\1Talent\\Demo1Talent.DTO\\Demo1Talent.DTO.csproj"
+>>>>>>> 127b38bdcef4d3db2e0c339c052927a45008b278
+>>>>>>> ce5e5677a0f4539fa2a7382fe94263a96a6fd0c1
             }
           }
         }
@@ -778,5 +826,13 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\demo1talent\\1Talent\\Demo1Talent.BLL\\obj\\Demo1Talent.BLL.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -1,0 +1,16 @@
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.BLL.deps.json
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.BLL.dll
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.BLL.pdb
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.DAL.dll
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.dll
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.DAL.pdb
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.pdb
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.csprojAssemblyReference.cache
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.csproj.CoreCompileInputs.cache
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.AssemblyInfoInputs.cache
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.AssemblyInfo.cs
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.csproj.CopyComplete
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.dll
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.pdb
