@@ -1,0 +1,9 @@
+C:\1Talent\1Talent\Demo1Talent.UnitTest\bin\Debug\netcoreapp2.1\Demo1Talent.UnitTest.deps.json
+C:\1Talent\1Talent\Demo1Talent.UnitTest\bin\Debug\netcoreapp2.1\Demo1Talent.UnitTest.dll
+C:\1Talent\1Talent\Demo1Talent.UnitTest\bin\Debug\netcoreapp2.1\Demo1Talent.UnitTest.pdb
+C:\1Talent\1Talent\Demo1Talent.UnitTest\obj\Debug\netcoreapp2.1\Demo1Talent.UnitTest.csprojAssemblyReference.cache
+C:\1Talent\1Talent\Demo1Talent.UnitTest\obj\Debug\netcoreapp2.1\Demo1Talent.UnitTest.csproj.CoreCompileInputs.cache
+C:\1Talent\1Talent\Demo1Talent.UnitTest\obj\Debug\netcoreapp2.1\Demo1Talent.UnitTest.AssemblyInfoInputs.cache
+C:\1Talent\1Talent\Demo1Talent.UnitTest\obj\Debug\netcoreapp2.1\Demo1Talent.UnitTest.AssemblyInfo.cs
+C:\1Talent\1Talent\Demo1Talent.UnitTest\obj\Debug\netcoreapp2.1\Demo1Talent.UnitTest.dll
+C:\1Talent\1Talent\Demo1Talent.UnitTest\obj\Debug\netcoreapp2.1\Demo1Talent.UnitTest.pdb

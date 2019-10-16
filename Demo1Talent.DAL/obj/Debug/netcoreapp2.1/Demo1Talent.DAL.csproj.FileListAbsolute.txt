@@ -1,0 +1,14 @@
+C:\1Talent\1Talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Demo1Talent.DAL.deps.json
+C:\1Talent\1Talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Demo1Talent.DAL.dll
+C:\1Talent\1Talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Demo1Talent.DAL.pdb
+C:\1Talent\1Talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.dll
+C:\1Talent\1Talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\1Talent\1Talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.pdb
+C:\1Talent\1Talent\Demo1Talent.DAL\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\1Talent\1Talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.csprojAssemblyReference.cache
+C:\1Talent\1Talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.csproj.CoreCompileInputs.cache
+C:\1Talent\1Talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.AssemblyInfoInputs.cache
+C:\1Talent\1Talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.AssemblyInfo.cs
+C:\1Talent\1Talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.csproj.CopyComplete
+C:\1Talent\1Talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.dll
+C:\1Talent\1Talent\Demo1Talent.DAL\obj\Debug\netcoreapp2.1\Demo1Talent.DAL.pdb

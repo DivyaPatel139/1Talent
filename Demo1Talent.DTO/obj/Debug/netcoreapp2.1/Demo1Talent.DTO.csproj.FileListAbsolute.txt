@@ -1,0 +1,9 @@
+C:\1Talent\1Talent\Demo1Talent.DTO\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.deps.json
+C:\1Talent\1Talent\Demo1Talent.DTO\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.dll
+C:\1Talent\1Talent\Demo1Talent.DTO\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.pdb
+C:\1Talent\1Talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.csprojAssemblyReference.cache
+C:\1Talent\1Talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.csproj.CoreCompileInputs.cache
+C:\1Talent\1Talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.AssemblyInfoInputs.cache
+C:\1Talent\1Talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.AssemblyInfo.cs
+C:\1Talent\1Talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.dll
+C:\1Talent\1Talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.pdb

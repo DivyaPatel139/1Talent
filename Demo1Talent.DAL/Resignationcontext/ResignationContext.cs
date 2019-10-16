@@ -8,6 +8,10 @@ namespace Demo1Talent.DAL.Resignationcontext
 {
     public class ResignationContext : DbContext
     {
+        public ResignationContext()
+        {
+        }
+
         public ResignationContext(DbContextOptions<ResignationContext> options): base(options)
         {
 

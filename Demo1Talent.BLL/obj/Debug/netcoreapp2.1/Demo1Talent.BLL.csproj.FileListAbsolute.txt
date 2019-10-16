@@ -1,0 +1,16 @@
+C:\1Talent\1Talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.BLL.deps.json
+C:\1Talent\1Talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.BLL.dll
+C:\1Talent\1Talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.BLL.pdb
+C:\1Talent\1Talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.DAL.dll
+C:\1Talent\1Talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.dll
+C:\1Talent\1Talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\1Talent\1Talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.DAL.pdb
+C:\1Talent\1Talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.pdb
+C:\1Talent\1Talent\Demo1Talent.BLL\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\1Talent\1Talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.csprojAssemblyReference.cache
+C:\1Talent\1Talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.csproj.CoreCompileInputs.cache
+C:\1Talent\1Talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.AssemblyInfoInputs.cache
+C:\1Talent\1Talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.AssemblyInfo.cs
+C:\1Talent\1Talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.csproj.CopyComplete
+C:\1Talent\1Talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.dll
+C:\1Talent\1Talent\Demo1Talent.BLL\obj\Debug\netcoreapp2.1\Demo1Talent.BLL.pdb
