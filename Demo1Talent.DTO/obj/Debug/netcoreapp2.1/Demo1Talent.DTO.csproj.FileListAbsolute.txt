@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\1Talent\1Talent\Demo1Talent.DTO\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.deps.json
 C:\1Talent\1Talent\Demo1Talent.DTO\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.dll
 C:\1Talent\1Talent\Demo1Talent.DTO\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.pdb
@@ -7,3 +8,14 @@ C:\1Talent\1Talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.Assem
 C:\1Talent\1Talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.AssemblyInfo.cs
 C:\1Talent\1Talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.dll
 C:\1Talent\1Talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.pdb
+=======
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DTO\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.deps.json
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DTO\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.dll
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DTO\bin\Debug\netcoreapp2.1\Demo1Talent.DTO.pdb
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.csprojAssemblyReference.cache
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.csproj.CoreCompileInputs.cache
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.AssemblyInfoInputs.cache
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.AssemblyInfo.cs
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.dll
+C:\Users\divya.patel\source\repos\Demo1talent\Demo1Talent.DTO\obj\Debug\netcoreapp2.1\Demo1Talent.DTO.pdb
+>>>>>>> 48090ea3c29dbbe2efbed8e1c8ff7cb6e7e2bcd2

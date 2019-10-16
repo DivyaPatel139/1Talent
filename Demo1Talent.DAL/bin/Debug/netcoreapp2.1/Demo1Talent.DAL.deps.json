@@ -8,8 +8,12 @@
     ".NETCoreApp,Version=v2.1": {
       "Demo1Talent.DAL/1.0.0": {
         "dependencies": {
+<<<<<<< HEAD
           "Demo1Talent.DTO": "1.0.0",
           "Microsoft.EntityFrameworkCore": "2.1.1.0"
+=======
+          "Demo1Talent.DTO": "1.0.0"
+>>>>>>> 48090ea3c29dbbe2efbed8e1c8ff7cb6e7e2bcd2
         },
         "runtime": {
           "Demo1Talent.DAL.dll": {}
@@ -19,6 +23,7 @@
         "runtime": {
           "Demo1Talent.DTO.dll": {}
         }
+<<<<<<< HEAD
       },
       "Microsoft.EntityFrameworkCore/2.1.1.0": {
         "runtime": {
@@ -27,6 +32,8 @@
             "fileVersion": "2.1.1.18157"
           }
         }
+=======
+>>>>>>> 48090ea3c29dbbe2efbed8e1c8ff7cb6e7e2bcd2
       }
     }
   },
@@ -40,11 +47,14 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+<<<<<<< HEAD
     },
     "Microsoft.EntityFrameworkCore/2.1.1.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
+=======
+>>>>>>> 48090ea3c29dbbe2efbed8e1c8ff7cb6e7e2bcd2
     }
   }
 }

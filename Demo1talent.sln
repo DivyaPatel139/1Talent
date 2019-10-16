@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1talent", "Demo1talent\Demo1talent.csproj", "{0CBC08A0-E394-419B-AA36-F1C96CB1435B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo1talent", "Demo1talent\Demo1talent.csproj", "{0CBC08A0-E394-419B-AA36-F1C96CB1435B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1Talent.BLL", "Demo1Talent.BLL\Demo1Talent.BLL.csproj", "{34849648-6F20-46BC-86FF-1ADC77B4E0A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo1Talent.BLL", "Demo1Talent.BLL\Demo1Talent.BLL.csproj", "{34849648-6F20-46BC-86FF-1ADC77B4E0A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1Talent.DTO", "Demo1Talent.DTO\Demo1Talent.DTO.csproj", "{F67FF70C-0166-4E37-81DC-334FE98C7AFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo1Talent.DTO", "Demo1Talent.DTO\Demo1Talent.DTO.csproj", "{F67FF70C-0166-4E37-81DC-334FE98C7AFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1Talent.DAL", "Demo1Talent.DAL\Demo1Talent.DAL.csproj", "{6E9CE2E7-55CC-4E6C-A737-C9588D93F62A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo1Talent.DAL", "Demo1Talent.DAL\Demo1Talent.DAL.csproj", "{6E9CE2E7-55CC-4E6C-A737-C9588D93F62A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1Talent.UnitTest", "Demo1Talent.UnitTest\Demo1Talent.UnitTest.csproj", "{BE1D7095-7256-4CAF-9927-64F025521B57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo1Talent.UnitTest", "Demo1Talent.UnitTest\Demo1Talent.UnitTest.csproj", "{BE1D7095-7256-4CAF-9927-64F025521B57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
