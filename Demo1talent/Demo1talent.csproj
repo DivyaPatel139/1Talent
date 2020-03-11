@@ -11,10 +11,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
-<<<<<<< HEAD
-=======
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.11" />
->>>>>>> 48090ea3c29dbbe2efbed8e1c8ff7cb6e7e2bcd2
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.11" /
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.9" />
   </ItemGroup>
 
